@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GROOT-1337
 - 👀 I’m interested in Gaming, coding, anime, manga
-- 🌱 I’m currently learning Pythnn
+- 🌱 I’m currently learning Python and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my instagram - @manishankar_ig
 <!---
